@@ -2,7 +2,7 @@ Hello Everyone!
 If you want to know about the general population density of the US, this map is for you!
 Link: https://ubc-geob472-spring2020.github.io/urveek-web/index.html
 
-Screenshot area: 
+Screenshot area (See the png file in the folder): 
 
 I found this area of my map to be very interesting, as I noticed that Puerto Rico (a territory) has a higher population density than some of the Large states in Eastern US. I was also drawn to the western side, as an Island Hawaii has a greater population than California. It made me think about population settlement and how little land area has to do with the carrying capacity of the land in this age of rising development and improvement in technology. This made me think about how climatic conditions, topography of the land and habitability are the main influence on population density. There could be other important factors apart from these in this specific case as well, but I did not go into specific research on the topic. I’m glad to have made this map, as it highlighted some factors, I was unaware about (that influence population distribution) and provide me new information on population dynamics.           
 
